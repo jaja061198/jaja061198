@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm Ronnie 👋
+
+
+Spotify Playing 🎧
 
 [![Spotify](https://novatorem.jaja061198.vercel.app/api/spotify)](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
 

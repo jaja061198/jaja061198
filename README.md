@@ -3,7 +3,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-git-master.jaja061198.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
+[<img src="https://novatorem-git-master.jaja061198.vercel.app/api/spotify-playing" width="350" />]
 
 <!--
 **jaja061198/jaja061198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

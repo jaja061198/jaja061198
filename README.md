@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://jaja061198.vercel.app/
-/api/spotify-playing)](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
+[![Spotify](https://jaja061198.vercel.app/api/spotify-playing)](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
 
 <!--
 ### Spotify Playing 🎧

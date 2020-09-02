@@ -7,7 +7,7 @@ Spotify Playing 🎧
 
 
 <details>
-  [![Jaja061198's github stats](https://github-readme-stats.jaja061198.vercel.app/api?username=jaja061198)]
+  [![Jaja061198's github stats](https://github-readme-stats.jaja061198.vercel.app/api?username=jaja061198)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 <!--
 ### Spotify Playing 🎧

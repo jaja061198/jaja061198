@@ -1,13 +1,21 @@
 ### Hi there I'm Ronnie 👋
 
 
-Spotify Playing 🎧
+### Spotify Playing 🎧
 
 [<img src="https://novatorem.jaja061198.vercel.app/api/spotify" alt="Spotify Playing" width="100%" />](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
 
 
-💬 My Stats <br> <br>
+### 💬 My Stats <br> <br>
   [![Jaja061198's github stats](https://github-readme-stats.jaja061198.vercel.app/api?username=jaja061198)](https://github.com/jaja061198/github-readme-stats)
+  
+### Connect with me
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!--
 ### Spotify Playing 🎧

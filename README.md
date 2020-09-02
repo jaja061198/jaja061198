@@ -20,4 +20,4 @@
 [facebook]: https://www.facebook.com/KuyaRonnieMo/
 [twitter]: https://twitter.com/KuyaRonnieMo
 [linkedin]: https://www.linkedin.com/in/ronnielupigjr/
-[instagram] : https://www.instagram.com/kuyaronniemo/
+[instagram]: https://www.instagram.com/kuyaronniemo

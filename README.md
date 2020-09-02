@@ -10,7 +10,7 @@
 
 
 ### 💬 My Stats <br> <br>
-  [![Jaja061198's github stats](https://github-readme-stats.jaja061198.vercel.app/api?username=jaja061198)](https://github.com/jaja061198/github-readme-stats)
+  [![Jaja061198's github stats](https://github-readme-stats.jaja061198.vercel.app/api?username=jaja061198&count_private=true)](https://github.com/jaja061198/github-readme-stats)
   
 ### Connect with me
 

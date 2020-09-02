@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Spotify](https://novatorem.jaja061198.vercel.app/
-/api/spotify)](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
+/api/spotify-playing)](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
 
 <!--
 ### Spotify Playing 🎧

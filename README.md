@@ -11,25 +11,13 @@
   
 ### Connect with me
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-<!--
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.jaja061198.vercel.app/api/spotify)](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
-[<img src="https://jaja061198.vercel.app/api/spotify" alt="Spotify Playing" width="350" />]
-**jaja061198/jaja061198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Spotify](https://https://novatorem.jaja061198.vercel.app/api/spotify)](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
-Here are some ideas to get you started:
+[<img align="left" alt="jaja061198 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebok.svg" />][facebook]
+[<img align="left" alt="jaja061198 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jaja061198 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jaja061198 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[facebook]: https://www.facebook.com/KuyaRonnieMo/
+[twitter]: https://twitter.com/KuyaRonnieMo
+[linkedin]: https://www.linkedin.com/in/ronnielupigjr/
+[instagram] : https://www.instagram.com/kuyaronniemo/

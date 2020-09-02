@@ -19,9 +19,11 @@
 [<img align="left" alt="jaja061198 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jaja061198 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-## Languages and tools
 
-[<img align="left" alt="javascript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">]
+
+### Languages and tools
+
+<img align="left" alt="javascript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
  
 [facebook]: https://www.facebook.com/KuyaRonnieMo
 [twitter]: https://twitter.com/KuyaRonnieMo

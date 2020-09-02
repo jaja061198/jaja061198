@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-[![Spotify](https://https://vercel.com/jaja061198/novatorem/fxla7vi64.vercel.app/api/spotify)](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
-[<img src="https://https://vercel.com/jaja061198/novatorem/fxla7vi64.vercel.app/api/spotify" width=350 />]
+
+### Spotify Playing 🎧
+[<img src="https://novatorem-git-master.jaja061198.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
+
 <!--
 **jaja061198/jaja061198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

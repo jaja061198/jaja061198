@@ -5,7 +5,7 @@
 
 <!--
 ### Spotify Playing 🎧
-[<img src="https://novatorem.jaja061198.vercel.app/api/spotify" alt="Spotify Playing" width="350" />]
+[<img src="https://jaja061198.vercel.app/api/spotify" alt="Spotify Playing" width="350" />]
 **jaja061198/jaja061198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Spotify](https://https://novatorem.jaja061198.vercel.app/api/spotify)](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
 Here are some ideas to get you started:

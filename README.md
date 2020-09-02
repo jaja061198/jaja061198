@@ -11,7 +11,7 @@
   
 ### Connect with me
 
-[<img align="left" alt="jaja061198 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/KuyaRonnieMo"/>]
+[<a href="href="https://twitter.com/KuyaRonnieMo""><img align="left" alt="jaja061198 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>]
 [<img align="left" alt="jaja061198 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [<img align="left" alt="jaja061198 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 

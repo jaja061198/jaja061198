@@ -23,6 +23,8 @@
 <img align="left" alt="mysql" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <br>
+<br>
+
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem.jaja061198.vercel.app/api/spotify" alt="Spotify Playing" width="100%" />](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)

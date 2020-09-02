@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://novatorem.jaja061198.vercel.app/
+[![Spotify](https://jaja061198.vercel.app/
 /api/spotify-playing)](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
 
 <!--

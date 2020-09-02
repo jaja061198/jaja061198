@@ -1,6 +1,6 @@
 ### Hi there I'm Ronnie 👋
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning a lot of things. 
 - 👯 I’m looking to collaborate with other programmer and learn from them.
 - ⚡ Hobbies: I love to read and play guitar and kalimba
 <br>

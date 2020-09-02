@@ -3,7 +3,7 @@
 
 Spotify Playing 🎧
 
-[<img src="https://novatorem.jaja061198.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
+[<img src="https://novatorem.jaja061198.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
 
 <!--
 ### Spotify Playing 🎧

@@ -6,9 +6,9 @@ Spotify Playing 🎧
 [<img src="https://novatorem.jaja061198.vercel.app/api/spotify" alt="Spotify Playing" width="100%" />](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
 
 
-<details>
+<!-- <details> -->
   [![Jaja061198's github stats](https://github-readme-stats.jaja061198.vercel.app/api?username=jaja061198)](https://github.com/jaja061198/github-readme-stats)
-</details>
+
 <!--
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.jaja061198.vercel.app/api/spotify)](https://open.spotify.com/user/8wslc7pmmy4fybdqu6cneclkm)
